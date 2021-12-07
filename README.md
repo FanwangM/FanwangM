@@ -12,7 +12,8 @@ pipeline. More specifically, my research focuses on molecular property predictio
 
 💻 Software Engineer at [Ayers Group](https://www.chemistry.mcmaster.ca/ayers/)<br>
 💻 Speaks English, Chinese, Python, LaTex, Markdown<br>
-💻 Publication: *Scientific Data*, *Medicinal Research Reviews*, *etc.*. Total publications=16,
+💻 Publication: *Scientific Data*, *Medicinal Research Reviews*, *Journal of Medicinal Chemistry*,
+*Elife*, *etc.*. Total publications=16,
 H-index=7. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
 </p>
 
