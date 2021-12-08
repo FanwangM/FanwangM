@@ -5,7 +5,7 @@
 <img src="./git_fire.png" min-width="267px" max-width="267px" width="250px" align="right" alt="Logo git_fire png">
 
 <p align="left">
-I am an enthetic of integrating machine learning/numerical algorithms to drug design
+I integrate machine learning/numerical algorithms into the drug design
 pipeline. More specifically, my research focuses on molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
 [procrustes](https://github.com/theochem/procrustes/).
 <br> <br>
