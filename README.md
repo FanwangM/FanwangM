@@ -5,10 +5,11 @@
 <img src="./git_fire.png" min-width="267px" max-width="267px" width="250px" align="right" alt="Logo git_fire png">
 
 <p align="left">
+
 I integrate machine learning/numerical algorithms into the drug design
 pipeline. More specifically, my research focuses on molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
-[procrustes](https://github.com/theochem/procrustes/).
-<br> <br>
+[procrustes](https://github.com/theochem/procrustes).
+<br>
 
 💻 Software Engineer at [Ayers Group](https://www.chemistry.mcmaster.ca/ayers/)<br>
 💻 Speaks English, Chinese, Python, LaTex, Markdown<br>
