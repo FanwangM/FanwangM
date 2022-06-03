@@ -1,6 +1,6 @@
 ### Hello World 🐱‍💻
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanwang-meng-3687a6a2/?locale=en_US)](https://www.linkedin.com/in/fanwang-meng-3687a6a2/?locale=en_US)  [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/fwmeng88/)](https://github.com/fwmeng88/)  [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFanwangMeng)](https://twitter.com/FanwangMeng)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanwang-meng-3687a6a2/?locale=en_US)](https://www.linkedin.com/in/fanwang-meng-3687a6a2/?locale=en_US)  [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/FanwangMeng/)](https://github.com/FanwangMeng/)  [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFanwangMeng)](https://twitter.com/FanwangMeng)
 
 <img src="./git_fire.png" min-width="267px" max-width="267px" width="250px" align="right" alt="Logo git_fire png">
 
@@ -24,10 +24,10 @@ H-index=7. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk
 ### Coding Summary:
 
 
-<a href="https://github.com/fwmeng88/fwmeng88">
+<a href="https://github.com/FanwangMeng/FanwangMeng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwmeng88&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/fwmeng88/fwmeng88">
+<a href="https://github.com/FanwangMeng/FanwangMeng">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fwmeng88&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
 </a>
 
