@@ -25,10 +25,10 @@ H-index=7. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk
 
 
 <a href="https://github.com/FanwangMeng/FanwangMeng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwmeng88&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanwangMeng&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/FanwangMeng/FanwangMeng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fwmeng88&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FanwangMeng&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
 </a>
 
 <a href="https://github.com/theochem/procrustes">
