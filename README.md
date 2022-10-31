@@ -7,15 +7,15 @@
 <p align="left">
 
 I integrate machine learning/numerical algorithms into the drug design
-pipeline. More specifically, my research focuses on molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
+pipeline. More specifically, my research focuses on lab automation, molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
 [procrustes](https://github.com/theochem/procrustes).
 <br>
 
-💻 Software Engineer at [Ayers Group](https://www.chemistry.mcmaster.ca/ayers/)<br>
+💻 Postdoc from [Coley Group at MIT](https://coley.mit.edu/) <br>
 💻 Speaks English, Chinese, Python, LaTex, Markdown<br>
 💻 Publication: *Scientific Data*, *Medicinal Research Reviews*, *Journal of Medicinal Chemistry*,
 *Elife*, *etc.*. Total publications=19,
-H-index=9. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
+H-index=10. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
 </p>
 
 ### Programming Skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)<br/>
