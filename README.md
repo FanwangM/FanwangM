@@ -6,12 +6,12 @@
 
 <p align="left">
 
-I integrate machine learning/numerical algorithms into the drug design
-pipeline. More specifically, my research focuses on lab automation, molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
+I am passionate about integrating machine learning/numerical algorithms with drug discovery.
+More specifically, my research focuses on lab automation, molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
 [procrustes](https://github.com/theochem/procrustes).
 <br>
 
-💻 Postdoc at [Coley Group at MIT](https://coley.mit.edu/) and Ph.D. at [Ayers Group at McMaster University](https://www.chemistry.mcmaster.ca/ayers/index.html) <br>
+💻 Postdoc at [Heidar-Zadeh Group at Queen's University](https://www.chem.queensu.ca/heidar-zadeh-farnaz), Alumni of [Coley Group at MIT](https://coley.mit.edu/) and [Ayers Group at McMaster University](https://www.chemistry.mcmaster.ca/ayers/index.html) <br>
 💻 Speaks English, Chinese, Python, LaTex, Markdown<br>
 💻 Publication: *Scientific Data*, *Medicinal Research Reviews*, *Journal of Medicinal Chemistry*,
 *Elife*, *etc.*. Total publications=21,
