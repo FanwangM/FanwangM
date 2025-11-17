@@ -7,8 +7,8 @@
 <p align="left">
 
 I am passionate about integrating machine learning/numerical algorithms with drug discovery.
-More specifically, my research focuses on lab automation, molecular property prediction, protein allostery prediction, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
-[procrustes](https://github.com/theochem/procrustes).
+More specifically, my research focuses on small-molecule drug discovery, molecular property prediction, protein structure-function relationship, epigenetics, *etc.*. I devoted most of my spare time to open-source software development, such as
+[procrustes](https://github.com/theochem/procrustes) and [selector](https://github.com/theochem/Selector).
 <br>
 
 💻 Postdoc at [Heidar-Zadeh Group at Queen's University](https://www.chem.queensu.ca/heidar-zadeh-farnaz), Alumni of [Coley Group at MIT](https://coley.mit.edu/) and [Ayers Group at McMaster University](https://www.chemistry.mcmaster.ca/ayers/index.html) <br>
