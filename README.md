@@ -12,7 +12,7 @@ More specifically, my research focuses on small-molecule drug discovery, molecul
 💻 Postdoc at [Heidar-Zadeh Group at Queen's University](https://www.chem.queensu.ca/heidar-zadeh-farnaz), Alumni of [Coley Group at MIT](https://coley.mit.edu/) and [Ayers Group at McMaster University](https://www.chemistry.mcmaster.ca/ayers/index.html) <br>
 💻 Speaks English, Chinese, Python, LaTex, Markdown<br>
 💻 Publication: *Scientific Data*, *Medicinal Research Reviews*, *Journal of Medicinal Chemistry*,
-*Elife*, *etc.*. Total publications=25,
+*Elife*, *etc.*. Total publications=26,
 H-index=14. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
 </p>
 
