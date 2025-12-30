@@ -16,6 +16,8 @@ More specifically, my research focuses on small-molecule drug discovery, molecul
 H-index=14. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
 </p>
 
+### More About Me: [https://fanwang.drugintelligence.ai/](https://fanwang.drugintelligence.ai/)
+
 ### Programming Skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)<br/>
 
 
