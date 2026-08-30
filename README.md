@@ -25,25 +25,25 @@ H-index=14. More on [Google Scholar](https://scholar.google.ca/citations?user=5X
 
 
 <a href="https://github.com/FanwangM/FanwangM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanwangM&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanwangM&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" alt="Top languages used by FanwangM" />
 </a>
 <a href="https://github.com/FanwangM/FanwangM">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FanwangM&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
 </a>
 
 <a href="https://github.com/theochem/procrustes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=procrustes&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=procrustes&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Pinned repository: theochem/procrustes" />
 </a>
 
 
 <a href="https://github.com/theochem/iodata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=iodata&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=iodata&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Pinned repository: theochem/iodata" />
 </a>
 
 <a href="https://github.com/theochem/Selector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=Selector&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=Selector&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Pinned repository: theochem/Selector" />
 </a>
 
 <a href="https://github.com/theochem/B3DB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=B3DB&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theochem&repo=B3DB&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Pinned repository: theochem/B3DB" />
 </a>
