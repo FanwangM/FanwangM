@@ -13,7 +13,7 @@ More specifically, my research focuses on small-molecule drug discovery, molecul
 💻 Speaks English, Chinese, Python, LaTex, Markdown<br>
 💻 Publication: *Scientific Data*, *Medicinal Research Reviews*, *Journal of Medicinal Chemistry*,
 *Elife*, *etc.*. Total publications=26,
-H-index=14. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
+H-index=16. More on [Google Scholar](https://scholar.google.ca/citations?user=5Xk8ab8AAAAJ&hl=en)<br>
 </p>
 
 ### More About Me: [https://fanwang.drugintelligence.ai/](https://fanwang.drugintelligence.ai/)
